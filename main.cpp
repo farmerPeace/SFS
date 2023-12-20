@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <sys/utsname.h>
 
 using namespace std;
 
